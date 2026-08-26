@@ -20,15 +20,13 @@ The total duration of the experiment was around 25-30 minutes.
 
 The experiment presents with static or moving audio visual 3D shapes of unfamiliar objects.
 
-_Development of 3D shapes: _The 2D shapes were extracted from a visual circular shape space, designed and validated by Li et al. (2020). The 3D modelling procedure was accomplished with the software Blender 3.5.0 (2023) (www.blender.org). The 2D shape rotate of 360 degrees along the central vertical axes though the Spin Function in Edit mode (degrees 360, steps 100).
+_Development of 3D shapes_: The 2D shapes were extracted from a visual circular shape space, designed and validated by Li et al. (2020). The 3D modelling procedure was accomplished with the software Blender 3.5.0 (2023) (www.blender.org). The 2D shape rotate of 360 degrees along the central vertical axes though the Spin Function in Edit mode (degrees 360, steps 100).
 
 _Stimulus design pipeline for the 3D object models_: The objects were created using the pipeline (1) each shape was converted from .png to Scalable Vector Graphics (.svg) keeping three different colour levels constant (e.g., white, black, grey); (2) each vector was imported into the 3D-space; (3) the outline was isolated and converted into a mesh; (4)each mesh was rotated along the central vertical axes through the Spin Function in Edit mode (360°, steps-100); (5) each 3D-shape was extracted from Blender. The 3D-space, lighting (point, radius-0.1m,1000W; coordinates:11m,-14 m,6.9m; rotation:40°, 34.8°) and viewpoint (coordinates: 10.9m, -14m, 4m; rotation:70°, 0°) settings were kept constant. Each 3D-object was rendered using the Workbench Engine (28-render samples, Single pass Anti-Aliasing viewpoint; Studio Lighting, Colour Material [dark grey, RGB:107,109,109,254; HEX:#6b6d6d] and Specular Lighting). All the object images were extracted with a resolution of 1080 x 1080 px, scale100%, and presented in a canonical, 3/4view so that the 3D-object and relevant features (e.g., concavities) were visually accessible in the image. The camera angle (coordinates:10.9m, -14m, 4m; rotation:70°, 0°) and lighting (point, radius-0.1m, 1000W; coordinates: 11m, -14 m, 6.9m; rotation:40°, 34.8°) were both held constant.
 
-_Animation procedure_
-Five main motion types were defined: swinging or jumping along the vertical axes, and continuous rotation and vibration along the horizontal axes, and abrupt movement on both vertical and horizontal axes. Each action was completed once during the video sequence, which had a total duration of 2 seconds. Animations were extracted in Blender keeping standard lighting and camera conditions.
+_Animation procedure_ : Five main motion types were defined: swinging or jumping along the vertical axes, and continuous rotation and vibration along the horizontal axes, and abrupt movement on both vertical and horizontal axes. Each action was completed once during the video sequence, which had a total duration of 2 seconds. Animations were extracted in Blender keeping standard lighting and camera conditions.
 
-_Sounds_
-Sounds were designed in Audacity to match the specific motion pattern, this was achieve by manipulation of their tempo and rhythm. All sounds (n=5) were extracted with constant sampling rate of 44100Hz.
+_Sounds_ : Sounds were designed in Audacity to match the specific motion pattern, this was achieve by manipulation of their tempo and rhythm. All sounds (n=5) were extracted with constant sampling rate of 44100Hz.
 
 **Design**
 
