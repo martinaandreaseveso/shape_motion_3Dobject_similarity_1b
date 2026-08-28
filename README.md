@@ -49,5 +49,11 @@ Age, sex, and object type.
 
 Full ethical approval was obtained from the School of Psychology Ethics Committee, Trinity College Dublin.
 
-
 [Peirce, J. W., Gray, J. R., Simpson, S., MacAskill, M. R., Höchenberger, R., Sogo, H., Kastman, E., Lindeløv, J. (2019). PsychoPy2: experiments in behavior made easy. Behavior Research Methods. 10.3758/s13428-018-01193-y]
+
+
+**License**
+a. Code (analysis scripts, stimuli generation): MIT License
+b. All other materials (data, stimuli, experimental design): CC BY 4.0
+
+All stimuli were created by the author (Seveso, M., A.). Data has been anonymised and contains no personal information.
