@@ -1,5 +1,11 @@
 # shape_motion_3Dobject_similarity_1b
 
+**Contributors**
+Martina Andrea Seveso,
+Rebecca Hirst,
+Alan O'Dowd,
+Fiona N. Newell
+
 This experiment investigated whether adding motion-correlated sounds further influences perceived similarity between novel object shapes. Participants judged the similarity of shapes presented with both motion and corresponding sounds.
 
 **Research aims**
